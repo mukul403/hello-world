@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning,bhawa ek number page</h1>
+    <h1>New user Register for DevOps Learning,bhawa ek number page, ky changes disatat ka ky mahiti aata</h1>
     <p>Please fill in this form to create an account.neet build hou de re baba</p>
     <hr>
      
